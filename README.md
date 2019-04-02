@@ -15,9 +15,9 @@
 * https://serverfault.com/questions/839661/how-to-forward-application-logs-from-docker-containers-to-elk
 * https://github.com/sekhrivijay/tail-sidecar
 * https://elk-docker.readthedocs.io/
-* 
-* 
-* 
+* https://www.elastic.co/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers
+* https://www.elastic.co/docker-kubernetes-container-monitoring
+* https://timber.io/blog/collecting-application-logs-on-kubernetes/
 * 
 * 
 * 

@@ -1,0 +1,1 @@
+# pbasu-Docker-Kubernetes-SideCar-Ambassador-Pattern
